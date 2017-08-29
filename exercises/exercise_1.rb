@@ -5,7 +5,6 @@ c = Store.create(:name => "Gastown", :annual_revenue => 190000, :mens_apparel =>
 
 
 
-
 puts "Exercise 1"
 puts Store.count
 
